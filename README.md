@@ -6,5 +6,5 @@ Our task was creating a program that makes different actions on AVL trees, such 
 
 A screenshot from the main menu:
 
-<img src="https://i.ibb.co/0y08Rw4k/ay1zmun.png" width="540" />
+<img src="https://i.ibb.co/0y08Rw4k/ay1zmun.png"/>
 
